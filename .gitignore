@@ -1,0 +1,19 @@
+# Model weights (large files)
+fake_true_model/
+*.bin
+*.pt
+*.pth
+
+# Data
+data/*.csv
+data/*.txt
+data/*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# OS
+.DS_Store
